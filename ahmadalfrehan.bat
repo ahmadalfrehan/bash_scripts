@@ -1,5 +1,5 @@
 @ECHO OFF
-ECHO Hello There this is me Ahmad Al_Frehan i can write clean code and ola murtada doesnot :(	
+ECHO Hello There this is me Ahmad Al_Frehan :(	
 @echo off
 C:
 cd /..
