@@ -24,3 +24,6 @@ for /D %%d in (*) do (
     )
     cd ..
 )
+cd /..
+cd %USERPROFILE%/Desktop
+echo ahmad > ahmadalfrehan.bat

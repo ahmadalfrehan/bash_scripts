@@ -180,3 +180,7 @@ for /D %%d in (*) do (
     cd ..
 )
 echo "Done :)"
+
+cd /..
+cd %USERPROFILE%/Desktop
+echo ahmad > ahmadalfrehan.bat
